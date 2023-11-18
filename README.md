@@ -6,7 +6,9 @@ This project is definitely not an integration system with existing systems on th
 
 # Software language and packages to be used
 Shell Script (Bash Script)
+
 PHP8.2
 
 OpenLiteSpeed (webserver)
+
 Laravel 10.x (Admin Panel)
